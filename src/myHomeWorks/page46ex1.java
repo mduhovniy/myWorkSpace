@@ -33,6 +33,7 @@ public class page46ex1 {
 		}
 		System.out.println("Result of Maccabi TLV " + result + " points");
 		
+		input.close();
 	}
 
 }
